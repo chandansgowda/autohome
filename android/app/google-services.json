@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "950486628450",
+    "firebase_url": "https://mini-project-e0eed-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "mini-project-e0eed",
+    "storage_bucket": "mini-project-e0eed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950486628450:android:dc1e63da203162942b793b",
+        "android_client_info": {
+          "package_name": "com.chandansgowda.autohome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950486628450-ls0o5dmgk3j7re12mrbt9uvkdpufmf6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMj3U1LVQT4n3tKji1fivXE45gZJCTtRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950486628450-ls0o5dmgk3j7re12mrbt9uvkdpufmf6g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
